@@ -1,0 +1,31 @@
+{
+  "form": {
+    "textbox1": {
+      "label": "First Name",
+      "minLength": "2",
+      "maxLength": "50",
+      "hint": "Enter your first name",
+      "tooltip": "Your legal first name",
+      "defaultValue": ""
+    },
+    "textbox2": {
+      "label": "Last Name",
+      "minLength": "2",
+      "maxLength": "50",
+      "hint": "Enter your last name",
+      "tooltip": "Your legal last name",
+      "defaultValue": ""
+    }
+  },
+  "rules": {
+    "rule1": {
+      "name": "Rule1"
+    },
+    "rule2": {
+      "name": "Rule2"
+    },
+    "rule3": {
+      "name": "Rule3"
+    }
+  }
+}
